@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caioitalo
-- 👀 I’m interested in Python, Quality Analisys
+- 👀 I’m interested in Python, Quality Analysis
 - 🌱 I’m currently learning Python, Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on instagram @caioital
