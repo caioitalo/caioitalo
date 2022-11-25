@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @caioitalo
 - 👀 I’m interested in Python, Data Analytics, Data Engineering
 - 🌱 I’m currently learning Python, Power BI, Google Cloud
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on instagram @caioital
 
 <!---
