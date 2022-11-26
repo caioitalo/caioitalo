@@ -1,4 +1,4 @@
-# Olá1 Bem-vindo ao meu GitHub!
+# Olá! Bem-vindo ao meu GitHub!
 Meu nome é Caio Ítalo Alves, tenho 28 anos e atualmente participando do Bootcamp SoulCode Academy em Engenharia de Dados.
 Possuo interesse e estudo diariamente assuntos concernentes à área de Análise e Engenharia de Dados.
 
