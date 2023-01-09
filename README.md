@@ -8,5 +8,5 @@ Possuo interesse e estudo diariamente assuntos concernentes à área de Análise
 ## Competências
 - Google Cloud Platform (GCP): Cloud Storage, Compute Engine, SQL, BigQuery.
 - MySQL, MongoDB
-- Python, Pandas
+- Python, Pandas, Pyspark
 - Nível B2 em Inglês segundo o padrão Common European Framework of Reference for Languages (CEFR)
