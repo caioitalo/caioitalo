@@ -2,6 +2,8 @@
 Meu nome é Caio Ítalo Alves, tenho 28 anos.
 Possuo interesse e estudo diariamente assuntos concernentes à área de Análise e Engenharia de Dados.
 
+Atualmente estudando Power BI, AWS na Escola da Nuvem e Airflow.
+
 ## Formação Acâdemica
 - Bacharelado em Engenharia Metalúrgica na Universidade Federal do Ceará (UFC)
 
@@ -10,6 +12,7 @@ Possuo interesse e estudo diariamente assuntos concernentes à área de Análise
 - MySQL, MongoDB
 - Python, Pandas, Pyspark
 - Nível B2 em Inglês segundo o padrão Common European Framework of Reference for Languages (CEFR)
+- Pacote Office
 
 ## Outros Cursos
 - Bootcamp Engenharia de Dados (580h) pela SoulCode Academy.
